@@ -2,7 +2,7 @@
 
 # Denzell Richardson
 
-Computer Science student at Borough of Manhattan Community College, expected graduation Fall 2027. Based in Brooklyn. I build small Python and TypeScript projects, test them, and write down the limits of the result.
+Computer Science student at Borough of Manhattan Community College, expected graduation Fall 2027. Based in New York City. I build small Python and TypeScript projects, test them, and write down the limits of the result.
 
 Open to junior roles in machine learning, quant research, data or Python engineering, and IT support.
 
